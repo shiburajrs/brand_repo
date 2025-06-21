@@ -1,0 +1,9 @@
+{
+  "app_name": "Brand B App",
+  "theme_color": "#FF5722",
+  "api_endpoint": "https://api.brand-a.com",
+  "features": {
+    "chat": true,
+    "payments": false
+  }
+}
