@@ -2,6 +2,16 @@
   "app_name": "Brand B App",
   "theme_color": "#2F25BE",
   "logo": "logo.jpg",
+  "slides": [
+    {
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/960px-Altja_j%C3%B5gi_Lahemaal.jpg",
+      "text": "Welcome to Branded App"
+    },
+    {
+      "image_url": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=1024x1024&w=0&k=20&c=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8=",
+      "text": "Manage your tasks with ease"
+    }
+  ],
   "api_endpoint": "https://api.brand-a.com",
   "features": {
     "chat": true,
