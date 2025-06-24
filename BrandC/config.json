@@ -3,6 +3,12 @@
   "theme_color": "#5BBE25",
   "logo": "logo.jpg",
   "api_endpoint": "https://api.brand-a.com",
+  "slides": [
+    {
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/960px-Altja_j%C3%B5gi_Lahemaal.jpg",
+      "text": "Welcome to Branded App"
+    }
+  ],
   "features": {
     "chat": true,
     "payments": false
