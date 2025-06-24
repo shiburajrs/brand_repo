@@ -1,6 +1,6 @@
 {
   "app_name": "Brand C App",
-  "theme_color": "#FF5722",
+  "theme_color": "#5BBE25",
   "logo": "logo.png",
   "api_endpoint": "https://api.brand-a.com",
   "features": {
