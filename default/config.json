@@ -1,0 +1,10 @@
+{
+  "app_name": "Default App",
+  "theme_color": "#FF5722",
+  "logo": "logo.png",
+  "api_endpoint": "https://api.brand-a.com",
+  "features": {
+    "chat": true,
+    "payments": false
+  }
+}
