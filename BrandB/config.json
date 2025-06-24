@@ -1,7 +1,7 @@
 {
   "app_name": "Brand B App",
   "theme_color": "#2F25BE",
-  "logo": "logo.png",
+  "logo": "logo.jpg",
   "api_endpoint": "https://api.brand-a.com",
   "features": {
     "chat": true,
