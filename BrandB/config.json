@@ -1,6 +1,6 @@
 {
   "app_name": "Brand B App",
-  "theme_color": "#FF5722",
+  "theme_color": "#2F25BE",
   "logo": "logo.png",
   "api_endpoint": "https://api.brand-a.com",
   "features": {
