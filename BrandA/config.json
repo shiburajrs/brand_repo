@@ -1,7 +1,7 @@
 {
   "app_name": "Brand A App",
   "theme_color": "#BE2536",
-  "logo": "logo.png",
+  "logo": "logo.jpg",
   "api_endpoint": "https://api.brand-a.com",
   "features": {
     "chat": true,
