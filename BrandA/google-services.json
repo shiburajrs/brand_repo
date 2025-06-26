@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291407650132",
+    "project_id": "fir-app-4e223",
+    "storage_bucket": "fir-app-4e223.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291407650132:android:b2dc202e25b96675f17cc1",
+        "android_client_info": {
+          "package_name": "com.gobookify.brandA"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8tUb9rANhiLuGyAyWXoxKc29-ucJly8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
