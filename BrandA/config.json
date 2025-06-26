@@ -1,24 +1,21 @@
 {
   "app_name": "Brand A App",
+  "package_name": "com.example.brandA",
   "theme_color": "#BE2536",
   "logo": "logo.jpg",
   "api_endpoint": "https://api.brand-a.com",
-  "slides": [
+  "welcome_slides": [
     {
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/960px-Altja_j%C3%B5gi_Lahemaal.jpg",
+      "image_url": "slide1.jpg",
       "text": "Welcome to Branded App"
     },
     {
-      "image_url": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=1024x1024&w=0&k=20&c=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8=",
+      "image_url": "slide2.jpg",
       "text": "Manage your tasks with ease"
     },
     {
-      "image_url": "https://static1.squarespace.com/static/5d777de8109c315fd22faf3a/t/6627b1d0227b9b249cdb0650/1713877484829/shutterstock_1288634614.jpg?format=1500w",
+      "image_url": "slide3.jpg",
       "text": "Get started today!"
     }
-  ],
-  "features": {
-    "chat": true,
-    "payments": false
-  }
+  ]
 }
