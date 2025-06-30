@@ -26,9 +26,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:291407650132:android:b2dc202e25b96675f17cc1",
+        "mobilesdk_app_id": "1:291407650132:android:d04a25f301b1ffd1f17cc1",
         "android_client_info": {
-          "package_name": "com.gobookify.brandA"
+          "package_name": "com.example.brandA.staging"
         }
       },
       "oauth_client": [],
