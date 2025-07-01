@@ -14,13 +14,13 @@
     {
       "image_url": "slide2.jpg",
       "title": "Search & Find Easily",
-      "subTitle":"Fast, Filtered, and Focused",
+      "sub_title":"Fast, Filtered, and Focused",
       "description":"Find books by title, author, or subject in seconds using smart filters and suggestions"
     },
     {
       "image_url": "slide3.jpg",
       "title": "Digital Library Access!",
-      "subTitle":"Read Anytime, Anywhere",
+      "sub_title":"Read Anytime, Anywhere",
       "description":"Access eBooks and documents online without visiting the physical library."
     }
   ]
