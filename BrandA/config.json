@@ -4,11 +4,11 @@
   "theme_color": "#BE2536",
   "logo": "logo.jpg",
   "api_endpoint": "https://api.brand-a.com",
-  "welcome_slides": [
+  "slides": [
     {
       "image_url": "slide1.jpg",
       "title": "Discover Your Library",
-      "subTitle":"Everything You Need, In One Place",
+      "sub_title":"Everything You Need, In One Place",
       "description":"Explore thousands of books, journals, and digital resources right from your fingertips."
     },
     {
