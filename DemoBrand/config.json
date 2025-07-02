@@ -1,7 +1,7 @@
 {
   "app_name": "Brand A App",
   "package_name": "com.example.brandA",
-  "theme_color": "#BE2536",
+  "theme_color": "#FFA500",
   "logo": "logo.jpg",
   "api_endpoint": "https://api.brand-a.com",
   "slides": [
