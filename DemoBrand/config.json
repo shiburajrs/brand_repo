@@ -1,27 +1,15 @@
 {
-  "app_name": "Brand A App",
-  "package_name": "com.example.brandA",
   "theme_color": "#FFA500",
-  "logo": "logo.jpg",
-  "api_endpoint": "https://api.brand-a.com",
   "slides": [
-    {
-      "image_url": "slide1.jpg",
-      "title": "Discover Your Library",
-      "sub_title":"Everything You Need, In One Place",
-      "description":"Explore thousands of books, journals, and digital resources right from your fingertips."
-    },
-    {
-      "image_url": "slide2.jpg",
-      "title": "Search & Find Easily",
-      "sub_title":"Fast, Filtered, and Focused",
-      "description":"Find books by title, author, or subject in seconds using smart filters and suggestions"
-    },
-    {
-      "image_url": "slide3.jpg",
-      "title": "Digital Library Access!",
-      "sub_title":"Read Anytime, Anywhere",
-      "description":"Access eBooks and documents online without visiting the physical library."
-    }
-  ]
+        {
+            "image_url":"slide1.jpg",
+            "title": "Demo Title 1",
+            "sub_title": "Lorem Ipsum is simply dummy text of the printing and type "
+        },
+        {
+          "image_url":"slide2.jpg",
+            "title": "Demo Title 2",
+            "sub_title": "Lorem Ipsum is simply dummy text of the printing and type "
+        }
+    ]
 }
